@@ -23,7 +23,7 @@ All the php processing is done in the controller.
 # Plugins used :
 You absolutely require ACF Pro to have the best experience of this theme.
 
-###Optional plugin include :
+### Optional plugin include :
 - WP_Maintenance
 - Show current template (development plugin)
 
